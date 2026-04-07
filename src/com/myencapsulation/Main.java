@@ -22,6 +22,8 @@ import java.util.Arrays;
  * Main class.
  */
 public class Main {
+
+    // JVM entry point.
     public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, DecapsulateException {
 
         /**
